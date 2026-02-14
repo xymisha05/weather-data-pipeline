@@ -27,12 +27,14 @@ The pipeline is fully automated and scheduled using cron.
 
 ## Tech Stack
 
-* Python
-* Pandas
-* PostgreSQL
-* SQLAlchemy
-* Linux (WSL)
-* Cron
+## Tech Stack
+- Python
+- Pandas
+- PostgreSQL
+- SQLAlchemy
+- REST API Integration
+- Linux (WSL)
+- Cron Scheduling
 
 ## Pipeline Architecture
 

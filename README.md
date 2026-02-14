@@ -1,8 +1,8 @@
-# 🌦 Automated Weather Data Pipeline
+#  Automated Weather Data Pipeline
 
 Production-style ETL pipeline that ingests real-time weather data, transforms it into structured format, and loads it into a PostgreSQL database with automated scheduling.
 
-## 🚀 Key Highlights
+##  Key Highlights
 - Built full ETL pipeline (Extract → Transform → Load)
 - Integrated real-world API data ingestion
 - Automated pipeline with cron scheduling
